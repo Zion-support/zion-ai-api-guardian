@@ -1,17 +1,10 @@
-# Zion AI API Guardian — Zion App Network
+# Zion AI API Guardian
 
-Zion AI API Guardian — breaking-change detection and automated consumer migration guides. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+API protection and governance.
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-api-guardian](https://ziontechgroup.com/zion-ai-api-guardian)
-- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-gateway](https://github.com/Zion-support/zion-ai-gateway) · [llm-gateway](https://github.com/Zion-support/llm-gateway) · [zion-security-shield](https://github.com/Zion-support/zion-security-shield) · [zion-ai-api-docs-writer](https://github.com/Zion-support/zion-ai-api-docs-writer) · [zion-ai-sdk-generator](https://github.com/Zion-support/zion-ai-sdk-generator)
 
-## Related apps in the network
-
-- [Zion AI API Docs Writer](https://github.com/Zion-support/zion-ai-api-docs-writer) — auto-generated API documentation
-- [Zion AI SDK Generator](https://github.com/Zion-support/zion-ai-sdk-generator) — generate SDKs from API specs
-- [API Health Probe](https://github.com/Zion-support/api-health-probe) — monitor API endpoints and uptime
-- [Mock API Generator](https://github.com/Zion-support/mock-api-generator) — JSON schema to mock payloads
-- [Zion AI Release Conductor](https://github.com/Zion-support/zion-ai-release-conductor) — release orchestration
-
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
